@@ -15,7 +15,7 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
+Documentation has been generated to see if i can use exdoc. There are intentional bad doctests 
+to show how both bad and good doctests look along with then being extremely helpful in doing automated
+tests and assertions.
 
